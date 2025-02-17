@@ -1,2 +1,1 @@
-# Meteor
-Best and Safest Roblox Script Executor.
+Download the .zip file and use.
